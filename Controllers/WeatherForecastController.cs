@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace DotNet_DemoGame.Controllers
+namespace DotNet_DemoWebAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]

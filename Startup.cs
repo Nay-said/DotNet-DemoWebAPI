@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace DotNet_DemoGame
+namespace DotNet_DemoWebAPI
 {
     public class Startup
     {

@@ -1,4 +1,4 @@
-namespace DotNet_DemoGame.Models
+namespace DotNet_DemoWebAPI.Models
 {
     public enum RpgClass
     {

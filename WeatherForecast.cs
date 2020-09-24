@@ -1,6 +1,6 @@
 using System;
 
-namespace DotNet_DemoGame
+namespace DotNet_DemoWebAPI
 {
     public class WeatherForecast
     {

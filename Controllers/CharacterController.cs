@@ -1,7 +1,7 @@
-using DotNet_DemoGame.Models;
+using DotNet_DemoWebAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DotNet_DemoGame.Controllers
+namespace DotNet_DemoWebAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
